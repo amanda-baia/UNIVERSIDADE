@@ -3,7 +3,7 @@ Copyright (C) Microsoft Corporation. Todos os direitos reservados.
 
 Instale o PowerShell mais recente para obter novos recursos e aprimoramentos! https://aka.ms/PSWindows
 
-PS C:\Users\jonee> python
+PS C:\Users\baia> python
 Python 3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license" for more information.
 >>> #Algoritmo que receba 5 números e faça media aritmetica
